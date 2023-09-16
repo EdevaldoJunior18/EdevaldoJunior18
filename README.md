@@ -1,6 +1,6 @@
 
 
-# Olá, Bem vindo ao meu repositório do Git!
+#Olá, Bem vindo ao meu repositório do Git!
 
 Minha ofensiva 🔥
 
