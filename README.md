@@ -24,8 +24,7 @@ Sou um desenvolvedor apaixonado por **Java**, **Quarkus**, **Spring Boot**, **Mi
 Conecte-se comigo e fique por dentro dos meus projetos e atualizações:
 
 - **LinkedIn**: [EdevaldoJunior](https://www.linkedin.com/in/edevaldo-junior-4043a515a/)
-- **Website**: [www.em-breve.com](#) (Em breve)
 
 ---
 
-🚀 **Vamos em frente e construir algo incrível juntos!** 🚀
+**Vamos em frente e construir algo incrível juntos!** 🚀
