@@ -27,4 +27,4 @@ Conecte-se comigo e fique por dentro dos meus projetos e atualizações:
 
 ---
 
-**Vamos em frente e construir algo incrível juntos!** 🚀
+**Vamos em frente construir algo incrível juntos!** 🚀
