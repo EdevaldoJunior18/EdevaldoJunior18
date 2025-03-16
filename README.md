@@ -1,8 +1,8 @@
-# Welcome to my Repository! 🚀
+# Bem vindo ao meu repositorio! 🚀
 
 Este é o repositório do meu trabalho como desenvolvedor. Aqui você vai encontrar meus projetos, que incluem tudo, desde microsserviços a sistemas financeiros e muito mais! Se você deseja colaborar ou aprender algo novo, fique à vontade para explorar.
 
-🔥 **"My Offensive"** 🔥  
+🔥 **"Minha Ofensiva"** 🔥  
 A missão é sempre entregar resultados excepcionais, com muito empenho e energia.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdevaldoJunior18" alt="Meu GitHub Streak" />
